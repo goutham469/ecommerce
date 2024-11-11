@@ -1,0 +1,48 @@
+After Effects Templates :  import { SiAdobeaftereffects } from "react-icons/si";
+Logo Reveals
+Glitch Intros
+Gaming Intros
+Cinematic Titles
+Fire Intros
+Openers
+
+2d and 3d Intros:          import { TbHexagon3D } from "react-icons/tb";
+2d Templates
+3d Templates 
+
+Premiere Pro Templates:	   import { SiAdobepremierepro } from "react-icons/si";
+Logo Reveals
+Glitch Intros
+Cinematic Titles
+Fire Intros
+
+Davinci Templates: 	   import { SiDavinciresolve } from "react-icons/si";
+Logo Reveals
+Glitch Intros
+Cinematic Titles
+
+Endscreen/Outro Templates: import { SlScreenDesktop } from "react-icons/sl";
+Endscreen Templates
+Outscreen Templates
+
+Apple Motion:		   import { MdAutoAwesomeMotion } from "react-icons/md";
+Elements
+Logo Reveals
+Titles
+
+Photoshop Templates:       import { SiAdobephotoshop } from "react-icons/si";
+PSD Templates
+EPG Templates
+
+Mockup Templates: 	   import { SiMockserviceworker } from "react-icons/si";
+Poster and Art Mockups
+Clothing Mockups
+Food Mockups
+Vehicle Mockups
+Screen Mockups
+Product Mockups
+
+Banner Templates: 	   import { RiAdvertisementFill } from "react-icons/ri";
+
+
+
